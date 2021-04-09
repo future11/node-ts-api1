@@ -1,0 +1,7 @@
+{
+    "app": {
+        "port": 3000,
+        "baseApiUrl": "/api",
+        "dataApiUrl": "https://api.hatchways.io/assessment"
+    }
+}
